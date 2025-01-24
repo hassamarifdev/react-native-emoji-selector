@@ -54,7 +54,7 @@ export const Categories = {
     name: "Symbols"
   },
   flags: {
-    symbol: "🏳️‍🌈",
+    symbol: "🚩",
     name: "Flags"
   }
 };
